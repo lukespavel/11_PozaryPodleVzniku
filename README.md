@@ -1,2 +1,2 @@
 # 11_PozaryPodleVzniku
-sestav 11
+Požáry podle objektu vzniku
